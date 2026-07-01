@@ -1,0 +1,11 @@
+UPDATE destinations SET image_url = '/destinations/rio-de-janeiro.png' WHERE name = 'Rio de Janeiro';
+UPDATE destinations SET image_url = '/destinations/florianopolis.png' WHERE name = 'Florianópolis';
+UPDATE destinations SET image_url = '/destinations/chapada-diamantina.png' WHERE name = 'Chapada Diamantina';
+UPDATE destinations SET image_url = '/destinations/gramado.png' WHERE name = 'Gramado';
+UPDATE destinations SET image_url = '/destinations/manaus.png' WHERE name = 'Manaus';
+UPDATE destinations SET image_url = '/destinations/praia-do-rosa.png' WHERE name = 'Praia do Rosa';
+UPDATE destinations SET image_url = '/destinations/bonito-ms.png' WHERE name = 'Bonito';
+UPDATE destinations SET image_url = '/destinations/foz-do-iguacu.png' WHERE name = 'Foz do Iguaçu';
+UPDATE destinations SET image_url = '/destinations/lencois-maranhenses.png' WHERE name = 'Lençóis Maranhenses';
+UPDATE destinations SET image_url = '/destinations/ouro-preto.png' WHERE name = 'Ouro Preto';
+UPDATE destinations SET image_url = '/destinations/sao-paulo.png' WHERE name = 'São Paulo';

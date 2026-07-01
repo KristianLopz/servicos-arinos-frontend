@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Praia do Rosa">
+      <defs>
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+          <stop offset="0" stop-color="#bae6fd"/>
+          <stop offset="1" stop-color="#0284c7"/>
+        </linearGradient>
+        <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+          <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#111827" flood-opacity="0.22"/>
+        </filter>
+      </defs>
+      <rect width="900" height="600" fill="url(#g)"/>
+      <circle cx="130" cy="95" r="95" fill="white" opacity="0.12"/>
+      <circle cx="795" cy="145" r="150" fill="white" opacity="0.08"/>
+      <circle cx="760" cy="95" r="48" fill="#fde68a" opacity="0.95"/>
+        <path d="M0 360 C160 310 300 390 470 340 C630 295 760 330 900 280 L900 600 L0 600 Z" fill="#0ea5e9" opacity="0.86"/>
+        <path d="M0 430 C200 380 320 460 505 420 C650 390 770 440 900 400 L900 600 L0 600 Z" fill="#f8dfa6"/>
+        <path d="M120 372 C220 342 260 382 355 360" stroke="white" stroke-width="14" opacity="0.65" fill="none"/>
+        
+      <rect x="48" y="390" width="520" height="136" rx="24" fill="#111827" opacity="0.42" filter="url(#shadow)"/>
+      <text x="82" y="450" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="white">Praia do Rosa</text>
+      <text x="84" y="492" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#e0e7ff">Brasil • SC</text>
+    </svg>
